@@ -1,4 +1,4 @@
-<h1 align="center">👆 Java Beginner Codes</h1>
+<h1 align="center">📌 Java Beginner Codes</h1>
 <h3 align="center">bit.ly/javaeasycodes</h3>
 
 <h3 align="left">Connect with me:</h3>
